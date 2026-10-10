@@ -5,7 +5,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family: "Indie Flower", sans-serif;
-    background-image: url("heart-bg.jpg");
+    background-image: url("cuties/heart-bg.jpg");
 
 }
 
@@ -52,7 +52,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: "window.png";
+    background-image: url("cuties/window.png");
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
