@@ -5,6 +5,7 @@ body {
     justify-content: center;
     align-items: center;
     font-family: "Indie Flower", sans-serif;
+    background-image: url("heart-bg.jpg");
 
 }
 
@@ -51,6 +52,11 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
+    background-image: url("window.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    gap: 1px;
     padding-top: 100px;
 
     transform: scale(1.2);
@@ -60,7 +66,7 @@ body {
 
 }
 
-.letter-windoow.open{
+.letter-window.open{
     transform: scale(1);
     opacity: 1;
 }
@@ -74,13 +80,13 @@ body {
     font-size: 40px ;
 }
 
-.ghost {
+.cat {
     width: 250px;
     margin: 10px 0;
     transition: width 0.4s ease;
 }
 
-.letter-window.final.ghost {
+.letter-window.final.cat {
     width: 180px;
 }
 

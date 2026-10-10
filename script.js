@@ -7,7 +7,7 @@ const noBtn=document.getElementById("no-btn");
 const yesBtn=document.getElementById(".btn[alt='Yes']");
 
 const title=document.getElementById("letter-title");
-const Img=document.getElementById("letter-cat");
+const catImg=document.getElementById("letter-cat");
 const buttons=document.getElementById("letter-buttons");
 const finalText=document.getElementById("final-text");
 
