@@ -52,7 +52,7 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
-    background-image: url("window.png");
+    background-image: "window.png";
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center;
